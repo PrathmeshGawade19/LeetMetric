@@ -13,5 +13,10 @@ LeetMetric is a simple yet effective web application that fetches LeetCode user 
 - CSS
 - JavaScript
 
+## 📌 Usage
+- Enter your LeetCode username.
+- Click on the "Search" button.
+- View your LeetCode stats with graphical representation.
+
 ## 📷 Screenshot
-![LeetMetric UI](path-to-your-image)
+![LeetMetric UI](Leetmetric UI)
