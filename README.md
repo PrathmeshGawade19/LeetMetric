@@ -13,7 +13,7 @@ LeetMetric is a web app that fetches and displays **LeetCode statistics** based 
 - **CSS** (for styling)
 - **JavaScript** (for fetching and rendering data)
 - **LeetCode GraphQL API** (for user statistics)
-- 
+ 
 ## 📌 Usage
 - Enter your LeetCode username.
 - Click on the "Search" button.
