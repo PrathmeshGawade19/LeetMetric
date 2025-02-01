@@ -1,6 +1,6 @@
 # LeetMetric
 
-LeetMetric is a simple yet effective web application that fetches LeetCode user statistics and displays them in an easy-to-read format. It provides an overview of solved problems categorized into Easy, Medium, and Hard difficulties.
+LeetMetric is a simple yet effective web application that fetches LeetCode user statistics and displays them in an easy-to-read format. It provides an overview of solved problems and submissions categorized into Easy, Medium, and Hard difficulties.
 
 ## 🚀 Features
 - Fetches user data from LeetCode.
