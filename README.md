@@ -1,2 +1,17 @@
 # LeetMetric
-LeetMetric is a web application that fetches and displays LeetCode user statistics in a visually appealing format. Built using HTML, CSS, and JavaScript, it provides insights into problem-solving performance across difficulty levels.
+
+LeetMetric is a simple yet effective web application that fetches LeetCode user statistics and displays them in an easy-to-read format. It provides an overview of solved problems categorized into Easy, Medium, and Hard difficulties.
+
+## 🚀 Features
+- Fetches user data from LeetCode.
+- Displays the number of problems solved in different difficulty levels.
+- Visual representation using pie charts.
+- User-friendly and clean UI.
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 📷 Screenshot
+![LeetMetric UI](path-to-your-image)
