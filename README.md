@@ -19,4 +19,4 @@ LeetMetric is a simple yet effective web application that fetches LeetCode user 
 - View your LeetCode stats with graphical representation.
 
 ## 📷 Screenshot
-![LeetMetric UI](Leetmetric UI)
+![LeetMetric UI](Leetmetric%20UI.jpg)
